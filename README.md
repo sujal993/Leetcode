@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal993/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujal993/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sujal993/Leetcode/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/sujal993/Leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/sujal993/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
