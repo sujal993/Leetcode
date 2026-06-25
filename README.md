@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sujal993/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sujal993/Leetcode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/sujal993/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sujal993/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sujal993/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sujal993/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sujal993/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
