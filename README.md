@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sujal993/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sujal993/Leetcode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/sujal993/Leetcode/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal993/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sujal993/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sujal993/Leetcode/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sujal993/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
