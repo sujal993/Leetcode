@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sujal993/Leetcode/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/sujal993/Leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujal993/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sujal993/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
