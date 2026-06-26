@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sujal993/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sujal993/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sujal993/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sujal993/Leetcode/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sujal993/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sujal993/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sujal993/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
