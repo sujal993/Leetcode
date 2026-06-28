@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sujal993/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sujal993/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1480-running-sum-of-1d-array](https://github.com/sujal993/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sujal993/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sujal993/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/sujal993/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sujal993/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sujal993/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sujal993/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
