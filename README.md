@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sujal993/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sujal993/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/sujal993/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sujal993/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sujal993/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sujal993/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sujal993/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sujal993/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sujal993/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sujal993/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -78,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sujal993/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sujal993/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sujal993/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sujal993/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sujal993/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sujal993/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
