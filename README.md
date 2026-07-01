@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sujal993/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sujal993/Leetcode/tree/master/0020-valid-parentheses) |
+| [0520-detect-capital](https://github.com/sujal993/Leetcode/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/sujal993/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
